@@ -1,31 +1,20 @@
 ---
 layout: default
-title: Offers
+title: Loans
 description: Offers and coupons for medical equipment and supplies from vendors and manufacturers certified for quality products and services.
 ---
 
 <div class="page blog-index">
-  <h1>Updates</h1>
+  <h1>Loans</h1>
 
   <div class="col-two blog-cols">
-
-    <div class="col col-aside blog-recent">
-      <h4>Recent</h4>
-      <ul class="blog-title-list">
-        {% for offer in site.offers limit:5 %}
-          <li>
-            <a href="{{ offer.url }}">{{ offer.title }}</a>
-            <span>Posted: {{ offer.date | date: '%B %d, %Y' }}</span>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-
     <div class="col col-content blog-previews">
-
-      {% for offer in site.offers %}
-        {% include offer-excerpt.html %}
-      {% endfor %}
+      <p>
+        <strong><a href="/loans/medneed-loan">MedNeed Equipment Support Loan</a></strong>
+        Description: Provided directly by MedNeed for medical equipment and supplies only. The loan amount is #5,000,000 maximum. Available to health facilities and professionals located anywhere in Nigeria.
+        <a href="/loans/medneed-loan">Learn more</a>      
+      </p>
     </div>
   </div>
+
 </div>

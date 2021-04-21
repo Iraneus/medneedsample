@@ -1,6 +1,6 @@
 ---
-layout: offer
-title: This is the title of the first offer
+layout: post
+title: This is the title of the first post
 postHero: /images/shark.jpg
 author: MedNeed Admin
 authorTwitter: http://twitter.com/mhartl
