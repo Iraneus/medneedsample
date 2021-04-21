@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offer
 title: This is the title of the first post
 postHero: /images/shark.jpg
 author: MedNeed Admin

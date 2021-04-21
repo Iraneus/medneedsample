@@ -1,0 +1,17 @@
+<div class="blog-posts">
+  <header class="post-header">
+    <h2><a href="{{ offer.url }}">{{ offer.title }}</a></h2>
+    <div class="post-byline">
+      <img src="{{ offer.gravatar }}">
+      <a href="{{ offer.authorTwitter }} " class="social-link">
+        <i class="fa fa-twitter"></i>
+      </a>
+      by: {{ offer.author }}
+      <span> - {{ offer.date | date: '%B %d, %Y' }}</span>
+    </div>
+  </header>
+  <div class="posts-image" style="background-image:url({{ offer.offerHero }})">
+  </div>
+  {{ offer.excerpt }}
+  <a href="{{ offer.url }}">Read More</a>
+</div>

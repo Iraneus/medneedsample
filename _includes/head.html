@@ -1,13 +1,13 @@
 <head>
   {% if page.title %}
-    <title>{{ page.title }} | Test Page</title>
+    <title>{{ page.title }} | MedNeed | Find offers for medical equipment and supplies</title>
   {% else %}
-    <title>Test Page: Don't Panic</title>
+    <title>MedNeed | Find offers for medical equipment and supplies</title>
   {% endif %}
   {% if page.description %}
     <meta name="description" content="{{ page.description }}">
   {% else %}
-    <meta name="description" content="This is a dangerous site.">
+    <meta name="description" content="MedNeed improves access to medical care in communities by providing financing solutions including offers, loans and other cost-saving programs to enable health facilities and professionals acquire the medical equipment and supplies they need to deliver improved and affordable medical care to more people.">
   {% endif %}
   <link href="/favicon.png" rel="icon">
   <link href="/apple-touch-icon.png" rel="apple-touch-icon">
@@ -16,4 +16,14 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100" rel="stylesheet">
   <link rel="stylesheet" href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T88758D3MD"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T88758D3MD');
+  </script>
 </head>

@@ -48,7 +48,7 @@ a img {
 
 /* GLOBAL STYLES */
 html {
-  box-shadow: 0 0 0 30px #000 inset;
+  box-shadow: 0 0 0 30px rgb(0, 0, 255) inset;
   padding: 0 30px;
 }
 body {
@@ -96,7 +96,7 @@ h2 ~ p {
 
 /* HEADER STYLES */
 .header {
-  background-color: #000;
+  background-color: rgb(0, 0, 255);
   color: #fff;
   position: fixed;
   width: 100%;
@@ -131,13 +131,13 @@ h2 ~ p {
   color: #ed6e2f;
 }
 .header-nav > li:first-child a {
-  color: #ed6e2f;
-}
-.header-nav > li:first-child a:hover {
   color: #fff;
 }
+.header-nav > li:first-child a:hover {
+  color: #ed6e2f;
+}
 .header-logo {
-  background-color: #000;
+  background-color: rgb(0, 0, 255);
   box-sizing: border-box;
   display: block;
   height: 10vh;
@@ -145,7 +145,7 @@ h2 ~ p {
   padding: 10px;
   position: relative;
   text-align: center;
-  width: 10vh;
+  width: 37vh;
 }
 .header-logo img {
   height: 80%;
@@ -153,7 +153,7 @@ h2 ~ p {
 }
 .header-logo:hover,
 .header-logo:active {
-  background-color: #ed6e2f;
+  background-color: rgb(0, 0, 255);
 }
 
 /* DROPDOWN STYLES */
@@ -247,7 +247,7 @@ h2 ~ p {
 
 /* FOOTER STYLES */
 .footer {
-  background-color: #000;
+  background-color: rgb(0, 0, 255);
   padding: 10vh 0 15vh;
   text-align: center;
 }
@@ -340,7 +340,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url(/images/medprofefessionals.jpg);
   background-position: center top;
 }
 .hero-content {
@@ -400,7 +400,7 @@ h2 ~ p {
 
 /* HOMEPAGE STYLES */
 .home-section {
-  margin: 6rem auto;
+  margin: 1.5rem auto;
   max-width: 980px;
   width: 90vw;
 }
@@ -421,7 +421,7 @@ h2 ~ p {
 }
 .home-callout {
   align-items: center;
-  background-color: #000;
+  background-color: rgb(0, 0, 255);
   color: #fff;
   display: flex;
   padding: 7vh 0;
@@ -450,7 +450,7 @@ h2 ~ p {
   box-sizing: border-box;
   float: left;
   font-size: 1rem;
-  margin: 6rem 0 0;
+  margin: 1.5rem 0 0;
   padding: 0 3%;
   width: 33%;
 }
@@ -655,9 +655,9 @@ h2 ~ p {
     max-height: 1000px;
   }
   .mobile-menu-check:checked ~ .show-mobile-menu:after {
-    background-color: #000;
+    background-color: rgb(0, 0, 255);
     color: #ed6e2f;
-    content: "CLOSE";
+    content: "X";
     left: 0;
     position: absolute;
     text-align: center;

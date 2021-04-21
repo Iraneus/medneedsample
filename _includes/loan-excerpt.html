@@ -1,0 +1,17 @@
+<div class="blog-posts">
+  <header class="post-header">
+    <h2><a href="{{ loan.url }}">{{ loan.title }}</a></h2>
+    <div class="post-byline">
+      <img src="{{ loan.gravatar }}">
+      <a href="{{ loan.authorTwitter }} " class="social-link">
+        <i class="fa fa-twitter"></i>
+      </a>
+      by: {{ loan.author }}
+      <span> - {{ loan.date | date: '%B %d, %Y' }}</span>
+    </div>
+  </header>
+  <div class="posts-image" style="background-image:url({{ post.postHero }})">
+  </div>
+  {{ loan.excerpt }}
+  <a href="{{ loan.url }}">Read More</a>
+</div>
