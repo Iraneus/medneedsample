@@ -282,11 +282,12 @@ h2 ~ p {
   color: #fff;
 }
 
-.footer-nav h5 {
+.footer h5 {
   font-size: 0.5em;
   color: rgb(236, 230, 230);
   padding: 10vh 0 2vh;
 }
+
 /* COLUMN STYLES */
 .col-three {
   display: flex;
