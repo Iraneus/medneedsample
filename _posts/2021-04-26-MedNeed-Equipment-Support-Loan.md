@@ -31,11 +31,11 @@ Not paying the required amount at the required time attracts additional 1% penal
 
 Users can only seek new loans only after fully completing payment on an existing loan.
 
-Users who need additional financial support can consider can be directed to partner banks and other financing providers.
+Users who need additional financial support can consider MedNeed Extended Facility Loan or can be directed to partner banks and other financing providers.
 
 Please share with other medical facilities and professionals.
 
-Contact MedNeed Support: +2348088829216, support@medneed.com for more details.
+Contact MedNeed Support: support@medneed.com for more details.
 
 
 
