@@ -14,7 +14,7 @@ The loan is provided directly by MedNeed for procurement of medical equipment an
 
 The amount range is between $1000 to $15,000 and its equivalent. 
 
-The interest rate is 6% of the loan amount. 
+The interest rate is 8% of the loan amount. 
 Available to licensed and certified medical facilities and professionals only. 
 
 The maximum tenor of the loan is 12 months.

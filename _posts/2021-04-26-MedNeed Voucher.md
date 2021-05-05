@@ -6,10 +6,10 @@ author: MedNeed Support
 postFooter: See <a href="/offers">MedNeed Offers.</a> 
 ---
 <!-- Excerpt here before second image below -->
-The MedNeed Voucher saves medical facilities and professionals some cost as they acquire the equipment and supplies they need. Users get 2% percent discount on medical equipment and supplies from approved vendors and manufacturers. 
+The MedNeed Voucher saves medical facilities and professionals some cost as they acquire the equipment and supplies they need deliver improved and affordable medical care to more people. 
 
 Description
-Users get 2% discount on medical equipment and supplies from our partner vendors and manufacturers who have been certified for quality products and services delivery.
+Users get 2% discount on medical equipment and supplies from approved vendors and manufacturers who have been certified for quality products and services delivery.
 
 The MedNeed Voucher is available only to certified medical facilities and professionals. 
 
