@@ -32,13 +32,21 @@ And given the amount of work we have to do at MedNeed, we are hiring now.
 
 We are looking for people who are deeply passionate about transforming the healthcare experience and improving access to medical care for more people. This is the most important criteria for joining us at MedNeed. If this describes you or someone you know please reach out to us at hr@medneed.com and perhaps we would find possible areas of convergence.
 
-Other areas we are specifically looking for given the criteria above include;
+Roles we are specifically hiring for given the criteria above include;
+
 Back-end developer (with significant experience working with Java)
+
 Front-end developer
+
 Android developer
-Medical Equipment Support professionals
-Marketing and Sales professionals (earlier experience within healthcare is desirable)
-Financing and Credit Risk Assessment professionals
+
+Medical Equipment Support
+
+Marketing and Sales (earlier experience within healthcare is desirable)
+
+Financing and Credit Risk Assessment
+
+Logistics Management
 
 Please send your CV with cover letter hr@medneed.com for review. 
 
