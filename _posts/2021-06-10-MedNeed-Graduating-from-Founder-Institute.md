@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MedNeed Graduating from Founder Institute and Hiring 
-postHero: /images/posts/fi_MedNeed.jpg
+postHero: /images/posts/fi_MedNeed.png
 author: Iraneus Ogu
 postFooter: <a href="/">More about MedNeed</a> 
 ---
