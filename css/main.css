@@ -124,7 +124,7 @@ h2 ~ p {
 .nav-links a,
 .drop-trigger,
 .show-mobile-menu {
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
@@ -148,7 +148,7 @@ h2 ~ p {
   padding: 10px;
   position: relative;
   text-align: center;
-  width: 34vh;
+  width: 30vh;
 }
 .header-logo img {
   height: 80%;
@@ -474,7 +474,7 @@ h2 ~ p {
 }
 .bio-box h3 {
   color: #fff;
-  font-size: 1.5em;
+  font-size: 1em;
   margin: -40px 0 1em;
   text-align: center;
   text-transform: uppercase;
