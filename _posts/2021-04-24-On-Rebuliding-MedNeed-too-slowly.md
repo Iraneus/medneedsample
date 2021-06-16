@@ -10,7 +10,7 @@ It took us way longer than expected to get back here. While there have been chal
 
 It’s totally impressive to look totally impressive before getting out there. But then the question is do we really need to be so impressive to help people? At the core, we set up MedNeed to help people and now specifically help medical facilities and professionals get the equipment and supplies needed to deliver improved and affordable medical care to more people. And the question again is do we really need to be totally impressive to start being useful to our users?
 
-<img class="pull-left" src="/images/posts/favicon.png" alt="MedNeed helping save">
+<img class="pull-left" src="/images/posts/MedNeed_favicon.png" alt="MedNeed helping save">
 
 
 We have been up for a while but then had to go offline to improve our platform and refine our focus. However, we spent so much time trying to refine things and look better than we have been which is fine but not quite necessary. The thing is while we took so long going through various iterations and pivots and in some cases complicating things unnecessary, we should already be out there helping make improved and affordable medical care accessible to more people and also getting real feedback. 
