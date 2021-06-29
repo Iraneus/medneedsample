@@ -6,7 +6,7 @@ author: Iraneus Ogu
 postFooter: <a href="/">More about MedNeed</a> 
 ---
 <!-- Excerpt here before second image below -->
- So happy to be finally graduating from the Founder Institute (FI) after 14 weeks of grueling work. 
+ We are so happy MedNeed is finally graduating from the Founder Institute (FI) after 14 weeks of grueling work. 
 
 Many times I felt like dropping out of the program given the amount of work we are required to do plus other personal challenges, activities and distractions I had to deal with. 
 
