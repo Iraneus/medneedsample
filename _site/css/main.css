@@ -371,7 +371,7 @@ h2 ~ p {
 .hero-content {
   color: #fff;
   position: relative;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   top: 50%;
   transform: translate(0, -50%);
